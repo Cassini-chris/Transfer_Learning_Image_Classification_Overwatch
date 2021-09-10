@@ -11,6 +11,6 @@ The Model is saved as HDF5 and can be loaded via Keras model.load('model').
 - Get familiar with Kearas & TensorFlow 
 
 #### Image classification problem:
-Image classification is a supervised learning problem. We define a set of target classes (in our case Disney Princesses), and train a model to recognize them using labeled example photos. In our example, we will make use of TensorFlow 2.x in order to build, train, and optimize our model.
+Image classification is a supervised learning problem. We define a set of target classes (in our case Overwatch Characters), and train a model to recognize them using labeled example photos. In our example, we will make use of TensorFlow 2.x in order to build, train, and optimize our model.
 
 ![alt text](https://github.com/cassini-chris/Transfer_Learning_Image_Classification_Overwatch/blob/main/_GITHUB/readme/images/overwatch_background.png?raw=true)
