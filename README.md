@@ -7,6 +7,8 @@ The Model is saved as HDF5 and can be loaded via Keras model.load('model').
 
 In case you want to retrain the model - I have uploaded the manual collected training / test data to Kaggle Dataset (~1500 image files) [>> Download Training Data](https://www.kaggle.com/magicchris/overwatch-characters "Overwatch Training Data")
 
+Check out the Colab Notebook [>> Notebook](https://colab.research.google.com/github/Cassini-chris/Transfer_Learning_Image_Classification_Overwatch/blob/main/Transfer_Learning_Overwatch_Classification.ipynb "Notebook")
+
 #### The project is for educational purposes: 
 - Learn how to build an image classification model
 - Get familiar with Transfer Learning / TensorFlow Hub 
