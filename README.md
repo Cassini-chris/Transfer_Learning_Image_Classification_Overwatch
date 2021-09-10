@@ -4,6 +4,7 @@ This repo holds the code for a Overwarch-Classification Model using Transfer Lea
 The Model is saved as HDF5 and can be loaded via Keras model.load('model'). 
 
 ## [>> Download Model](https://storage.googleapis.com/epicml_public_bucket/01_ml_models/05_overwatch_model/overwatch_model.h5 "Overwatch Model")
+### [>> Download Training Data](https://storage.googleapis.com/epicml_public_bucket/01_ml_models/05_overwatch_model/overwatch_model.h5 "Overwatch Training Data")
 
 #### The project is for educational purposes: 
 - Learn how to build an image classification model
